@@ -1,6 +1,6 @@
 this is a sample text file, this is ok. file updating  
 some new code changes updates.
-
+updating direcly on remote repo.
 
 
 
